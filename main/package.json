@@ -1,0 +1,8 @@
+{
+  "name" : "owl",
+  "version" : "0.0.1",
+  "description" : "Owl Social Network",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
