@@ -1,3 +1,5 @@
 I am using TXT to write documentations because I don't know how to code with md for now.
 
 Using "node server.js" to start the server.
+
+Navigate to http://localhost:3000/ to view the webpage or test the webpage.
