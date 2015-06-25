@@ -10,3 +10,10 @@ http.createServer(function(request, response) {
   response.write("It's alive!");
   response.end();
 }).listen(3000);
+
+
+function send404(response) {
+  response.writeHead(404, {"Content-type" : "text/plain"});
+  response.write("Error 404: resource not found");
+  response.end();
+}
